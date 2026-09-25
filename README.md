@@ -52,6 +52,7 @@
 | Resolution | **5200 × 1664** |
 | Runtime | 약 **1분 55초** |
 | Frame Rate | 24 fps |
+| Final File | **AJUNCTION_공통좌표.mp4** |
 | Production | Python / Manim Community / FFmpeg |
 | Award | **제1회 중앙도서관 미디어아트 영상 공모전 우수상** |
 
@@ -95,6 +96,16 @@ AJOU
 | 01:30–01:38 | 국제학부 | 지구, 교류 궤도, 국제 연결 |
 | 01:38–01:45 | 다산학부대학 / 자유전공 | 선택과 분기, 학문 경로 |
 | 01:45–01:55 | **Convergence** | 모든 형상이 수렴해 Ajou Symbol 완성 |
+
+---
+
+## Final Output
+
+```text
+AJUNCTION_공통좌표.mp4
+```
+
+최종 전시본은 5200 × 1664 해상도, 약 1분 55초 길이로 제작되었다. 사운드는 영상 후반부로 갈수록 에너지가 상승하고 마지막 심볼 결집 장면에서 클라이맥스가 형성되도록 구성했다.
 
 ---
 
