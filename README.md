@@ -101,9 +101,13 @@ AJOU
 
 ## Final Output
 
-```text
-AJUNCTION_공통좌표.mp4
-```
+<div align="center">
+
+### [▶ AJUNCTION_공통좌표.mp4](media/master/AJUNCTION_공통좌표.mp4)
+
+**5200 × 1664 · 24 fps · 1m 55s**
+
+</div>
 
 최종 전시본은 5200 × 1664 해상도, 약 1분 55초 길이로 제작되었다. 사운드는 영상 후반부로 갈수록 에너지가 상승하고 마지막 심볼 결집 장면에서 클라이맥스가 형성되도록 구성했다.
 
