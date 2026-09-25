@@ -1,0 +1,5 @@
+media/
+*.log
+__pycache__/
+.manim/
+partial_movie_files/
