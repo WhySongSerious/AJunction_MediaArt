@@ -1,6 +1,11 @@
 <div align="center">
 
-<img src="assets/hero.jpg" width="100%" alt="A/JUNCTION media art">
+<table>
+  <tr>
+    <td width="60%"><img src="assets/artwork_screenshot.jpg" width="100%" alt="A/JUNCTION artwork screenshot"></td>
+    <td width="40%"><img src="assets/library_display.jpg" width="100%" alt="A/JUNCTION displayed on the Ajou University Library media wall"></td>
+  </tr>
+</table>
 
 # A/JUNCTION: 공통좌표
 
@@ -146,7 +151,8 @@ AJunction_MediaArt/
 ├─ .gitattributes
 ├─ .gitignore
 ├─ assets/
-│  ├─ hero.jpg
+│  ├─ artwork_screenshot.jpg
+│  ├─ library_display.jpg
 │  └─ award_certificate.jpg
 └─ src/
    └─ ajou_field_v2_manim.py
