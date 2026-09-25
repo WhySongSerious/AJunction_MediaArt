@@ -1,4 +1,6 @@
-media/
+media/*
+!media/master/
+!media/master/*.mp4
 *.log
 __pycache__/
 .manim/
